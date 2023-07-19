@@ -49,7 +49,7 @@ tr {
 }
 
 thead {
-    background-color: khaki;
+    background-color: rgb(216, 206, 117);
 }
 
 img {
@@ -76,9 +76,12 @@ a,
 li {
     display: inline;
     font-size: 35px;
-    color: white;
+    color: khaki;
     text-decoration: none;
     margin: 10px;
+    font-family: 'open sans';
+    margin-bottom: 1px;
+    text-shadow: 2px 2px 4px black;
 
 }
 
@@ -113,7 +116,7 @@ img {
 .card-gallery {
     text-align: center;
     margin: 30px 40px;
-    background-color: rgb(199, 201, 176);
+    background-color: rgb(216, 206, 117);
     border: solid 1px black;
 }
 
